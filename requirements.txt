@@ -1,3 +1,4 @@
 customtkinter
+pydantic
 openpyxl
-doc2text
+docx2txt
